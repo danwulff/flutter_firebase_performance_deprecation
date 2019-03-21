@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "710901752829",
+    "firebase_url": "https://performance-deprecation-demo.firebaseio.com",
+    "project_id": "performance-deprecation-demo",
+    "storage_bucket": "performance-deprecation-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710901752829:android:d6bd399e67d196db",
+        "android_client_info": {
+          "package_name": "com.example.firebase_performance_deprecation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710901752829-ibfpmb50v7j310ec5p3r1icjgg9aqef5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9oWLcdnUMoViyhc4rNhHVEgH84uHwcCQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
